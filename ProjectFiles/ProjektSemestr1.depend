@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1581030866 source:c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\main.cpp
+	"Bitmap.h"
+	"player.h"
+	"Pipe.h"
+	<io.h>
+	<mmsystem.h>
+	<w32api.h>
+	<string>
+
+1581023544 c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\consoleclass.h
+	<windows.h>
+	<conio.h>
+	<vector>
+
+1580759808 c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\bitmap.h
+	<fstream>
+	<iostream>
+	"ConsoleClass.h"
+
+1580761817 c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\player.h
+	"ConsoleClass.h"
+
+1572252290 c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\perlinnoise.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1581030449 c:\users\£ukasz\documents\lukasz\projekty cpp\projektsemestr1\pipe.h
+	"ConsoleClass.h"
+	<time.h>
+	<stdlib.h>
+
